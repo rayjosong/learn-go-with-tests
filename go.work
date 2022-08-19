@@ -4,5 +4,6 @@ use (
 	./arrays
 	./integers
 	./iteration
+	./pointers
 	./structs
 )
